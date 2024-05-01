@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href= "https://linkedin.com/in/Joy-Barnes">JOY!</a> </h1>
+<h1>Hi, I'm <a href= "https://linkedin.com/in/joy-barnes-3897a0306/">JOY!</a> </h1>
 
 IT enthusiast with foundational experience, actively expanding skills in [mention specific areas]. Seeking opportunities to contribute to innovative projects and further develop within the field. Explore my projects and join me on this journey in IT
 
