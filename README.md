@@ -1,4 +1,6 @@
-<h1>Hi, I'm Joy, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm <a href= "https://linkedin.com/in/Joy-Barnes">JOY!</a> </h1>
+
+IT enthusiast with foundational experience, actively expanding skills in [mention specific areas]. Seeking opportunities to contribute to innovative projects and further develop within the field. Explore my projects and join me on this journey in IT
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
